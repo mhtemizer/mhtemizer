@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there 👋 Node&Validator - Trusted Proof-of-Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider, Support the growth of Web3 and the Proof-of-Stake ecosystem with our non-custodial staking services.  I'm in the crypto world from 2020.
+Node&Validator - Trusted Proof-of-Stake validator across Cosmos universe. Active ecosystem contributor, IBC relayer and chain service provider, Support the growth of Web3 and the Proof-of-Stake ecosystem with our non-custodial staking services.  I'm in the crypto world from 2020.
 
 Please note that below is the official list of information about Node & Validator:
 
@@ -20,6 +20,7 @@ Humanode : [https://humanode.subscan.io/account/hmqtAkrqNuTFTN8yrf35D9eH5qLotWnM
 
 **Validator testnet:
 **
+
 Nulink
 
 Meson Network
